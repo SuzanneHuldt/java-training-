@@ -1,8 +1,7 @@
 ## lesson 1 - hello world
 
 The first java lesson is going to be hello-world - classique.
-I've chosen this because writing code is easy, and developing software is hard - this lesson will take us through each step required to get to the point where we can
-1) write and 2) actually observe the behaviour of some java code.
+I've chosen this because writing code is easy, and developing software is hard - this lesson will take us through each step required to get to the point where we can write and actually observe the behaviour of some java code.
 
 The file contents below are my 'field notes', cataloguing assumptions and questions, and
 reassessment of assumptions in the face of what happens with the code.
