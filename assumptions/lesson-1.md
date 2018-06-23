@@ -42,7 +42,7 @@ see if you can reproduce my errors -i've left out java errors' helpful hints tho
 
 > 3. HelloWorld.java:2: error: invalid method declaration; return type required
 
-> 4. HelloWorld.java:2: error: <identifier> expected
+> 4. HelloWorld.java:2: error: /< identifier /> expected
 
 #### at what point in the write - compile - run process do these errors occur?
 
